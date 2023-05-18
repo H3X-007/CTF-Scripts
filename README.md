@@ -8,6 +8,6 @@ Each script is documented in its accompanying README file, providing insights in
 
 By exploring the scripts in this repository, you can gain a deeper understanding of the techniques used in various rooms and learn how to optimize and develop scripts to suit your own needs. It serves as a valuable reference and learning tool for aspiring ethical hackers and cybersecurity enthusiasts.
 
-#### Please note that the scripts provided here are intended for educational purposes only and should be used responsibly and ethically.
+### Please note that the scripts provided here are intended for educational purposes only and should be used responsibly and ethically.
 
 Happy hacking!
